@@ -2,9 +2,9 @@ import 'bookClass.dart';
 
 void main() {
   // Creating three Book objects
-  Book book1 = Book("2024", "George Orwell", 1949);
-  Book book2 = Book("The Great Gatsby", "F. Scott Fitzgerald", 1925);
-  Book book3 = Book("Brave New World", "Aldous Huxley", 1932);
+  Book book1 = Book("হাবলুদের জন্য প্রোগ্রামিং", "ঝংকার মাহবুব", 2016);
+  Book book2 = Book("প্রোগ্রামিং কনটেস্ট সমস্যা ও সমাধান", "মো: মাহবুবুল হাসান", 2012);
+  Book book3 = Book("রিচার্জ ইয়োর ডাউন ব্যাটারি", "ঝংকার মাহবুব", 2010);
 
   // Simulating reading pages
   book1.read(50);
