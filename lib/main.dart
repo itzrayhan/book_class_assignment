@@ -1,4 +1,5 @@
-import 'bookClass.dart.dart';
+import 'package:book_class_assignment/bookClass.dart';
+
 void main(){
   Car myCar=Car('Hunda', 'CR-V ', 2015);
 
